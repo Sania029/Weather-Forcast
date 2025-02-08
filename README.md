@@ -6,9 +6,11 @@ A simple and responsive weather application that provides real-time weather upda
 ☁️ Displays temperature, humidity, wind speed, and weather conditions
 🎨 Clean and minimal UI with responsive design
 🔍 Integrated search functionality for instant results
+
 ****📂 Tech Stack:****
 **Frontend**: HTML, CSS, JavaScript
 **API**: OpenWeatherMap API
+
 ****🛠 Setup & Usage:****
 1. Clone the repository:
 git clone https://github.com/your-username/weather-app.git
