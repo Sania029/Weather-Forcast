@@ -20,9 +20,7 @@ A simple and responsive weather application that provides real-time weather upda
 **API**: OpenWeatherMap API
 
 ****🛠 Setup & Usage:****
-1. Clone the repository:
- 
-git clone https://github.com/your-username/weather-app.git
+1. Clone the repository
 
 2. Open the index.html file in your browser.
    
